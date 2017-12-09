@@ -7,4 +7,4 @@ ah i forgot to change file name
 there is no way this is gonna end
 and its too boaring
 
-# why is it too boaring
+# why is it so boaring
